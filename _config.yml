@@ -1,0 +1,11 @@
+# Site settings
+title: Zocial Engineer
+# email: your-email@domain.com
+# description:
+baseurl: ""
+url: "http://zocial.github.io"
+twitter_username: zocialinc
+github_username: zocial
+
+# Build settings
+markdown: kramdown
