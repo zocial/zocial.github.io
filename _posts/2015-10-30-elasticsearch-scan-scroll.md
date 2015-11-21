@@ -6,8 +6,8 @@ categories: elasticsearch
 ---
 
 {% highlight ruby %}
-def foo
-  bar
+def scan_and_scroll
+  "awesome"
 end
 {% endhighlight %}
 
