@@ -9,3 +9,5 @@ github_username: zocial
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
