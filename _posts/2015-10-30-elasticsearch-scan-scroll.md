@@ -5,7 +5,7 @@ date: 2015-10-30 15:18:20 +0700
 categories: elasticsearch
 ---
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 def foo
   bar
 end
